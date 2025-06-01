@@ -8,4 +8,4 @@ MENTOR:Neela Santhosh
 DESCRIPTION OF TASK:
                   This Vue.js-based real-time chat application provides a responsive and modern user interface for live communication. It connects to a WebSocket server running at `ws://localhost:8080`, enabling real-time message exchange between users. Messages sent by the user are labeled as "You" and styled differently from incoming messages, which are labeled as "Stranger." The chat interface features a sleek gradient background, glassmorphism design, and smooth scrolling to always show the latest messages. Users can input their message in a text box and either press Enter or click the "Send" button to communicate instantly.
 Output:
-![Image](https://github.com/user-attachments/assets/983e8d98-0d5d-4755-86d1-3ceff59bf33c)
+![Image](https://github.com/user-attachments/assets/d0a0e43d-f582-4341-a6a5-391c292d78da)
